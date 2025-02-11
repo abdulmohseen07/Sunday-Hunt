@@ -19,6 +19,4 @@ This Python script automates the generation of certificates from a template imag
 
 🔗 Feel free to contribute or customize as needed! 🚀  
 
----
 
-Would you like me to add any specific instructions or installation steps?
